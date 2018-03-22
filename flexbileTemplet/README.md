@@ -12,5 +12,8 @@
 notice
 - dist 是开发目录
 - build 是生成好的
-- lib目录放公用的js
+- lib 放公用的js
+### how to  use as templete
+- 开发在dist目录下面，引用的js都放在lib里面，引用路径改为`绝对路径`,生成好的在build 和 lib 里面
+
 ### flexible+gulp+rem+sass+bowsersync+flex
