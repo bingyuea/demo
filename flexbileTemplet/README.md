@@ -9,6 +9,7 @@
 5. 使用命令行输入 gulp sever，项目即可启动
 6. 在地址栏输入`http://localhost:3000/dist/templet/index.html#`即可看到预览整个项目
 7. 手机预览:手机端和电脑处于同一个局域网下，把localhost换为你本机的ip地址  
+
 notice
 - dist 是开发目录
 - build 是生成好的
