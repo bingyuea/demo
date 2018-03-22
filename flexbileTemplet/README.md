@@ -1,4 +1,4 @@
-###bingyuea
+### bingyuea
 百度学院移动端页面完整的demo  
 ### how to use  
 把整个项目`clone`下来,
