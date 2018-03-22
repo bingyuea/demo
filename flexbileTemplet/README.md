@@ -4,7 +4,7 @@
 把整个项目`clone`下来,
 1. 安装 node
 2. 全局安装 gulp 输入命令 npm install -g gulp
-3. 在项目下面安装 输入命令 gulp npm install gulp
+3. 在项目下面安装 输入命令 npm install gulp
 4. 安装相关插件 输入命令 npm install --save-dev gulp-sass gulp-autoprefixer browser-sync gulp-rename gulp-concat
 5. 使用命令行输入 gulp serve，项目即可启动
 6. 在地址栏输入`http://localhost:3000/dist/templet/index.html#`即可看到预览整个项目
