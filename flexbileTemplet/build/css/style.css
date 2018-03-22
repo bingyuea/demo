@@ -215,13 +215,17 @@ a {
       -webkit-box-pack: start;
       -ms-flex-pack: start;
       justify-content: flex-start;
-      font-size: 15px; }
-      [data-dpr="1"] [data-page="index"] header .left a {
-        font-size: 7.5px; }
+      font-size: 9px; }
       [data-dpr="2"] [data-page="index"] header .left a {
-        font-size: 15px; }
+        font-size: 18px; }
+      [data-dpr="2.5"] [data-page="index"] header .left a {
+        font-size: 23px; }
+      [data-dpr="2.75"] [data-page="index"] header .left a {
+        font-size: 25px; }
       [data-dpr="3"] [data-page="index"] header .left a {
-        font-size: 22.5px; }
+        font-size: 27px; }
+      [data-dpr="4"] [data-page="index"] header .left a {
+        font-size: 36px; }
       [data-page="index"] header .left a img {
         width: 0.2rem;
         margin-right: 0.13333rem; }
@@ -240,17 +244,21 @@ a {
     -ms-flex-pack: center;
     justify-content: center; }
     [data-page="index"] header .center a {
-      font-size: 15px;
+      font-size: 9px;
       line-height: 0.58667rem;
       text-align: center;
       color: #fff;
       font-weight: 700; }
-      [data-dpr="1"] [data-page="index"] header .center a {
-        font-size: 7.5px; }
       [data-dpr="2"] [data-page="index"] header .center a {
-        font-size: 15px; }
+        font-size: 18px; }
+      [data-dpr="2.5"] [data-page="index"] header .center a {
+        font-size: 23px; }
+      [data-dpr="2.75"] [data-page="index"] header .center a {
+        font-size: 25px; }
       [data-dpr="3"] [data-page="index"] header .center a {
-        font-size: 22.5px; }
+        font-size: 27px; }
+      [data-dpr="4"] [data-page="index"] header .center a {
+        font-size: 36px; }
   [data-page="index"] header .right {
     -webkit-box-flex: 1;
     -ms-flex: 1;
@@ -274,14 +282,18 @@ a {
       flex: 1; }
       [data-page="index"] nav .tab-button li a {
         text-align: center;
-        font-size: 16px;
+        font-size: 9px;
         line-height: 0.58667rem; }
-        [data-dpr="1"] [data-page="index"] nav .tab-button li a {
-          font-size: 8px; }
         [data-dpr="2"] [data-page="index"] nav .tab-button li a {
-          font-size: 16px; }
+          font-size: 18px; }
+        [data-dpr="2.5"] [data-page="index"] nav .tab-button li a {
+          font-size: 23px; }
+        [data-dpr="2.75"] [data-page="index"] nav .tab-button li a {
+          font-size: 25px; }
         [data-dpr="3"] [data-page="index"] nav .tab-button li a {
-          font-size: 24px; }
+          font-size: 27px; }
+        [data-dpr="4"] [data-page="index"] nav .tab-button li a {
+          font-size: 36px; }
         [data-page="index"] nav .tab-button li a.active {
           border-bottom: 0.01333rem solid #ffff00; }
 
@@ -364,13 +376,17 @@ a {
           text-align: center;
           height: 0.4rem;
           line-height: 0.4rem;
-          font-size: 20px; }
-          [data-dpr="1"] [data-page="index"] .banner-nav .tab-button li .bing-media span {
-            font-size: 10px; }
+          font-size: 10px; }
           [data-dpr="2"] [data-page="index"] .banner-nav .tab-button li .bing-media span {
             font-size: 20px; }
+          [data-dpr="2.5"] [data-page="index"] .banner-nav .tab-button li .bing-media span {
+            font-size: 25px; }
+          [data-dpr="2.75"] [data-page="index"] .banner-nav .tab-button li .bing-media span {
+            font-size: 28px; }
           [data-dpr="3"] [data-page="index"] .banner-nav .tab-button li .bing-media span {
             font-size: 30px; }
+          [data-dpr="4"] [data-page="index"] .banner-nav .tab-button li .bing-media span {
+            font-size: 40px; }
 
 [data-page="index"] main {
   background: #fff;
@@ -468,13 +484,17 @@ a {
           text-align: center;
           height: 0.4rem;
           line-height: 0.4rem;
-          font-size: 20px; }
-          [data-dpr="1"] [data-page="index"] main .tab-button li a .bing-text p {
-            font-size: 10px; }
+          font-size: 10px; }
           [data-dpr="2"] [data-page="index"] main .tab-button li a .bing-text p {
             font-size: 20px; }
+          [data-dpr="2.5"] [data-page="index"] main .tab-button li a .bing-text p {
+            font-size: 25px; }
+          [data-dpr="2.75"] [data-page="index"] main .tab-button li a .bing-text p {
+            font-size: 28px; }
           [data-dpr="3"] [data-page="index"] main .tab-button li a .bing-text p {
             font-size: 30px; }
+          [data-dpr="4"] [data-page="index"] main .tab-button li a .bing-text p {
+            font-size: 40px; }
 
 [data-page="index"] .bing-info {
   background: #eee;
@@ -500,14 +520,18 @@ a {
         [data-page="index"] .bing-info .bing .wapper .bing-title p {
           position: relative;
           margin: 10px 0;
-          font-size: 18px;
+          font-size: 9px;
           line-height: 0.45333rem; }
-          [data-dpr="1"] [data-page="index"] .bing-info .bing .wapper .bing-title p {
-            font-size: 9px; }
           [data-dpr="2"] [data-page="index"] .bing-info .bing .wapper .bing-title p {
             font-size: 18px; }
+          [data-dpr="2.5"] [data-page="index"] .bing-info .bing .wapper .bing-title p {
+            font-size: 23px; }
+          [data-dpr="2.75"] [data-page="index"] .bing-info .bing .wapper .bing-title p {
+            font-size: 25px; }
           [data-dpr="3"] [data-page="index"] .bing-info .bing .wapper .bing-title p {
             font-size: 27px; }
+          [data-dpr="4"] [data-page="index"] .bing-info .bing .wapper .bing-title p {
+            font-size: 36px; }
           [data-page="index"] .bing-info .bing .wapper .bing-title p:after {
             content: '';
             position: absolute;
@@ -632,14 +656,18 @@ a {
         [data-page="index"] .bing-news .bing .wapper .bing-title p {
           position: relative;
           margin: 10px 0;
-          font-size: 18px;
+          font-size: 9px;
           line-height: 0.45333rem; }
-          [data-dpr="1"] [data-page="index"] .bing-news .bing .wapper .bing-title p {
-            font-size: 9px; }
           [data-dpr="2"] [data-page="index"] .bing-news .bing .wapper .bing-title p {
             font-size: 18px; }
+          [data-dpr="2.5"] [data-page="index"] .bing-news .bing .wapper .bing-title p {
+            font-size: 23px; }
+          [data-dpr="2.75"] [data-page="index"] .bing-news .bing .wapper .bing-title p {
+            font-size: 25px; }
           [data-dpr="3"] [data-page="index"] .bing-news .bing .wapper .bing-title p {
             font-size: 27px; }
+          [data-dpr="4"] [data-page="index"] .bing-news .bing .wapper .bing-title p {
+            font-size: 36px; }
           [data-page="index"] .bing-news .bing .wapper .bing-title p:after {
             content: '';
             position: absolute;
@@ -745,15 +773,19 @@ a {
   height: 0.58667rem; }
   [data-page="index"] .bing-newInfo .bing-title p {
     height: 100%;
-    font-size: 22px;
+    font-size: 11px;
     line-height: 0.58667rem;
     padding: 0 15px; }
-    [data-dpr="1"] [data-page="index"] .bing-newInfo .bing-title p {
-      font-size: 11px; }
     [data-dpr="2"] [data-page="index"] .bing-newInfo .bing-title p {
       font-size: 22px; }
+    [data-dpr="2.5"] [data-page="index"] .bing-newInfo .bing-title p {
+      font-size: 28px; }
+    [data-dpr="2.75"] [data-page="index"] .bing-newInfo .bing-title p {
+      font-size: 30px; }
     [data-dpr="3"] [data-page="index"] .bing-newInfo .bing-title p {
       font-size: 33px; }
+    [data-dpr="4"] [data-page="index"] .bing-newInfo .bing-title p {
+      font-size: 44px; }
 
 [data-page="index"] .bing-newInfo .bing-title-after {
   display: -webkit-box;
@@ -814,13 +846,17 @@ a {
 [data-page="index"] .bing-newInfo .bing-title-bottom {
   height: 0.53333rem;
   padding: 0 15px;
-  font-size: 20px; }
-  [data-dpr="1"] [data-page="index"] .bing-newInfo .bing-title-bottom {
-    font-size: 10px; }
+  font-size: 10px; }
   [data-dpr="2"] [data-page="index"] .bing-newInfo .bing-title-bottom {
     font-size: 20px; }
+  [data-dpr="2.5"] [data-page="index"] .bing-newInfo .bing-title-bottom {
+    font-size: 25px; }
+  [data-dpr="2.75"] [data-page="index"] .bing-newInfo .bing-title-bottom {
+    font-size: 28px; }
   [data-dpr="3"] [data-page="index"] .bing-newInfo .bing-title-bottom {
     font-size: 30px; }
+  [data-dpr="4"] [data-page="index"] .bing-newInfo .bing-title-bottom {
+    font-size: 40px; }
   [data-page="index"] .bing-newInfo .bing-title-bottom P {
     color: #999;
     line-height: 0.53333rem; }

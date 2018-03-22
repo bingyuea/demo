@@ -43,7 +43,7 @@ html, body {
                 width: rem(135);
                 align-items: center;
                 justify-content: flex-start;
-                @include fontDpr(15);
+                @include fontDpr(18);
                 img {
                     width: rem(15);
                     margin-right: rem(10);
@@ -60,7 +60,7 @@ html, body {
             align-items: center;
             justify-content: center;
             a {
-                @include fontDpr(15);
+                @include fontDpr(18);
                 line-height: rem(44);
                 text-align: center;
                 color: #fff;
@@ -86,7 +86,7 @@ html, body {
                 flex: 1;
                 a {
                     text-align: center;
-                    @include fontDpr(16);
+                    @include fontDpr(18);
                     line-height: rem(44);
                     &.active {
                         border-bottom: rem(1) solid #ffff00;
