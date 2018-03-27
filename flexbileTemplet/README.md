@@ -17,4 +17,7 @@ notice
 ### how to  use as templete
 - 开发在dist目录下面，引用的js都放在lib里面，引用路径改为`绝对路径`,生成好的在build 和 lib 里面
 
+### modify
+1.20180327 flexbile.js 引用尽量放在页面的最顶部
+
 ### flexible+gulp+rem+sass+bowsersync+flex
