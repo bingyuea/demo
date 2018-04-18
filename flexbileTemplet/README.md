@@ -6,6 +6,8 @@
 2. 全局安装 gulp 输入命令 npm install -g gulp
 3. 在项目下面安装 输入命令 npm install gulp
 4. 安装相关插件 输入命令 npm install --save-dev gulp-sass gulp-autoprefixer browser-sync gulp-rename gulp-concat
+(使用npm安装可能会报错，原因暂时未知，可以改为cnpm；安装cnpm 的方式为 npm install -g cnpm --registry=https://registry.npm.taobao.org ；
+然后在执行 cnpm install --save-dev gulp-sass gulp-autoprefixer browser-sync gulp-rename gulp-concat)
 5. 使用命令行输入 gulp serve，项目即可启动
 6. 在地址栏输入`http://localhost:3000/dist/templet/index.html#`即可看到预览整个项目
 7. 手机预览:手机端和电脑处于同一个局域网下，把localhost换为你本机的ip地址  
